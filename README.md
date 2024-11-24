@@ -6,8 +6,10 @@ I'm Fabrício Tonetto Londero
 Sou doutor em Educação pela UFSM (2024) e mestre em Ciência da Computação pela UFSM (2016); Especialista em Gestão de Banco de Dados pela ULBRA (2015) e em Aplicações para Web pela FURG (2015); Licenciado pelo Programa Especial de Graduação de Formação de Professores para a Educação Profissional pela UFSM (2016); Bacharel em Sistemas de Informação pela UNIFRA (2012). Atualmente é professor dos cursos de Jogos Digitais, Sistemas de Informação e Ciências da Computação da UFN.
 
 Acesso ao Lattes: http://lattes.cnpq.br/0042392018480711
-Mais sobre mim: https://linktr.ee/fabriciolondero 
 
+Email: fabriciotonettolondero@gmail.com
+
+Mais sobre mim: https://linktr.ee/fabriciolondero 
 
 
 <p align="center">
