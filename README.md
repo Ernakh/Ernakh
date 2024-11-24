@@ -17,7 +17,7 @@ Mais sobre mim: https://linktr.ee/fabriciolondero
   </a>
 </p>
 
-<p>
+<p align="center">
   <a href="[https://github.com/anuraghazra/convoychat](https://linktr.ee/fabriciolondero)">
     <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ernakh&hide_progress=true" />
   </a>
