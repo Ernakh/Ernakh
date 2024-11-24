@@ -1,7 +1,6 @@
-## Hi there 👋
+## Olá! 👋
 
-I'm Fabrício Tonetto Londero
-
+Eu sou Fabrício Tonetto Londero!
 
 Sou doutor em Educação pela UFSM (2024) e mestre em Ciência da Computação pela UFSM (2016); Especialista em Gestão de Banco de Dados pela ULBRA (2015) e em Aplicações para Web pela FURG (2015); Licenciado pelo Programa Especial de Graduação de Formação de Professores para a Educação Profissional pela UFSM (2016); Bacharel em Sistemas de Informação pela UNIFRA (2012). Atualmente é professor dos cursos de Jogos Digitais, Sistemas de Informação e Ciências da Computação da UFN.
 
@@ -16,6 +15,9 @@ Mais sobre mim: https://linktr.ee/fabriciolondero
   <a href="[https://github.com/anuraghazra/github-readme-stats](https://linktr.ee/fabriciolondero)">
     <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=Ernakh&rank_icon=github" />
   </a>
+</p>
+
+<p>
   <a href="[https://github.com/anuraghazra/convoychat](https://linktr.ee/fabriciolondero)">
     <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ernakh&hide_progress=true" />
   </a>
