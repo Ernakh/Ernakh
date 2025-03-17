@@ -41,6 +41,23 @@ Mais sobre mim: https://linktr.ee/fabriciolondero
   <img alt="" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/unity/unity-original-wordmark.svg">
   <img alt="" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/android/android-plain-wordmark.svg">
 </p>
+<br>
+<p>
+    <a
+    id="cy-effective-orcid-url"
+    class="underline"
+     href="https://orcid.org/0000-0002-4822-4981"
+     target="orcid.widget"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="ORCID iD icon"/>
+      https://orcid.org/0000-0002-4822-4981
+    </a>
+</p>
+<br>
 
 <div align="center">
       <img src="logofabricio03%402x.png" width="80%" alt="exemplo imagem">
