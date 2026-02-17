@@ -23,14 +23,14 @@ Atuo na interseção entre **Educação, Computação e tecnologias/jogos digita
 
 <details>
   <summary><b>Formação (clique para expandir)</b></summary>
-- Doutor em Educação — UFSM (2024)  
-- Mestre em Ciência da Computação — UFSM (2016)
-- Especialista em Inteligência Artificial e Machine Learning - Facens (2027)
-- Especialista em Gestão de Banco de Dados — ULBRA (2015)  
-- Especialista em Aplicações para Web — FURG (2015)  
-- Licenciatura (Formação de Professores para Educação Profissional) — UFSM (2016)
-- Licenciatura em Pedagogia - FAEP (2026)
-- Bacharel em Sistemas de Informação — UNIFRA (2012)
+- Doutor em Educação — UFSM (2024)  <br>
+- Mestre em Ciência da Computação — UFSM (2016) <br>
+- Especialista em Inteligência Artificial e Machine Learning - Facens (2027) <br>
+- Especialista em Gestão de Banco de Dados — ULBRA (2015)   <br>
+- Especialista em Aplicações para Web — FURG (2015)   <br>
+- Licenciatura (Formação de Professores para Educação Profissional) — UFSM (2016) <br>
+- Licenciatura em Pedagogia - FAEP (2026) <br>
+- Bacharel em Sistemas de Informação — UNIFRA (2012) <br>
 </details>
 
 
