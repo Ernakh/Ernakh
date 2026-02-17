@@ -40,9 +40,11 @@ Mais sobre mim: https://linktr.ee/fabriciolondero
 </p>
 
 <p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ernakh&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
+    ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Ernakh&show_icons=true&theme=dark)
+    ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Ernakh&theme=dark)
+    ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Ernakh&layout=compact&theme=dark)
 </p>
-          
+     
 <p align="center">
   <img alt="" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/csharp/csharp-plain.svg">
   <img alt="" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/visualstudio/visualstudio-original-wordmark.svg">
