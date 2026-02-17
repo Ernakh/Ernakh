@@ -39,6 +39,9 @@ Mais sobre mim: https://linktr.ee/fabriciolondero
   </a>
 </p>
 
+<p align="center">
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ernakh&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D&hide_current_streak=true)](https://git.io/streak-stats)
+</p>
           
 <p align="center">
   <img alt="" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/csharp/csharp-plain.svg">
