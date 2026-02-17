@@ -40,9 +40,24 @@ Mais sobre mim: https://linktr.ee/fabriciolondero
 </p>
 
 <p align="center">
-    ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Ernakh&show_icons=true&theme=dark)
-    ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Ernakh&theme=dark)
-    ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Ernakh&layout=compact&theme=dark)
+    <div style="display:flex; flex-wrap:wrap; gap:12px; align-items:flex-start;">
+      <img
+        src="https://github-readme-stats-fast.vercel.app/api?username=Ernakh&show_icons=true&theme=dark"
+        alt="GitHub Stats"
+        style="max-width:100%; height:auto;"
+      />
+      <img
+        src="https://github-readme-stats-fast.vercel.app/api/streak?username=Ernakh&theme=dark"
+        alt="GitHub Streak Stats"
+        style="max-width:100%; height:auto;"
+      />
+      <img
+        src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Ernakh&layout=compact&theme=dark"
+        alt="Top Languages"
+        style="max-width:100%; height:auto;"
+      />
+    </div>
+
 </p>
      
 <p align="center">
