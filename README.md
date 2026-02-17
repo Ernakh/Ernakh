@@ -1,30 +1,42 @@
 ## Olá! 👋
 
-Eu sou Fabrício Tonetto Londero!
-
-Sou doutor em Educação pela UFSM (2024) e mestre em Ciência da Computação pela UFSM (2016); Especialista em Gestão de Banco de Dados pela ULBRA (2015) e em Aplicações para Web pela FURG (2015); Licenciado pelo Programa Especial de Graduação de Formação de Professores para a Educação Profissional pela UFSM (2016); Bacharel em Sistemas de Informação pela UNIFRA (2012).
-
-Acesso ao Lattes: http://lattes.cnpq.br/0042392018480711
-
-Email: fabriciotonettolondero@gmail.com
-
-Mais sobre mim: https://linktr.ee/fabriciolondero 
+Eu sou **Fabrício Tonetto Londero** — doutor em Educação (UFSM, 2024) e mestre em Ciência da Computação (UFSM, 2016).  
+Atuo na interseção entre **Educação, Computação e tecnologias/jogos digitais aplicados ao ensino**.
 
 <p>
-    <a
-    id="cy-effective-orcid-url"
-    class="underline"
-     href="https://orcid.org/0000-0002-4822-4981"
-     target="orcid.widget"
-     rel="me noopener noreferrer"
-     style="vertical-align: top">
-     <img
-        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
-        style="width: 1em; margin-inline-start: 0.5em"
-        alt="ORCID iD icon"/>
-      https://orcid.org/0000-0002-4822-4981
-    </a>
+  <a href="http://lattes.cnpq.br/0042392018480711" target="_blank" rel="noopener noreferrer">
+    <img alt="Lattes" src="https://img.shields.io/badge/Lattes-CNPq-0A66C2?style=for-the-badge">
+  </a>
+  <a href="https://orcid.org/0000-0002-4822-4981" target="_blank" rel="me noopener noreferrer">
+    <img alt="ORCID" src="https://img.shields.io/badge/ORCID-0000--0002--4822--4981-A6CE39?style=for-the-badge&logo=orcid&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/fabriciolondero/" target="_blank" rel="noopener noreferrer">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-fabriciolondero-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:fabriciotonettolondero@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://linktr.ee/fabriciolondero" target="_blank" rel="noopener noreferrer">
+    <img alt="Linktree" src="https://img.shields.io/badge/Linktree-Links-39E09B?style=for-the-badge&logo=linktree&logoColor=white">
+  </a>
 </p>
+
+<details>
+  <summary><b>Formação (clique para expandir)</b></summary>
+- Doutor em Educação — UFSM (2024)  
+- Mestre em Ciência da Computação — UFSM (2016)
+- Especialista em Inteligência Artificial e Machine Learning - Facens (2027)
+- Especialista em Gestão de Banco de Dados — ULBRA (2015)  
+- Especialista em Aplicações para Web — FURG (2015)  
+- Licenciatura (Formação de Professores para Educação Profissional) — UFSM (2016)
+- Licenciatura em Pedagogia - FAEP (2026)
+- Bacharel em Sistemas de Informação — UNIFRA (2012)
+</details>
+
+
+---
+
+### GitHub
 
 
 <div style="display:flex; flex-wrap:wrap; gap:12px; align-items:flex-start;">
@@ -46,7 +58,10 @@ Mais sobre mim: https://linktr.ee/fabriciolondero
 </div>
 
 <br>
-<br>
+
+---
+
+### Tecnologias
      
 <p align="center">
   <img alt="" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/csharp/csharp-plain.svg">
@@ -66,6 +81,8 @@ Mais sobre mim: https://linktr.ee/fabriciolondero
   <img alt="" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/unity/unity-original-wordmark.svg">
   <img alt="" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/android/android-plain-wordmark.svg">
 </p>
+
+---
 
 <div align="center">
       <img src="logofabricio03%402x.png" width="80%" alt="exemplo imagem">
