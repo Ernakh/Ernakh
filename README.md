@@ -27,38 +27,24 @@ Mais sobre mim: https://linktr.ee/fabriciolondero
 </p>
 
 
-<p align="center">
-  <a href="[https://linktr.ee/fabriciolondero](https://linktr.ee/fabriciolondero)">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=Ernakh&rank_icon=github" />
-  </a>
-</p>
+<div style="display:flex; flex-wrap:wrap; gap:12px; align-items:flex-start;">
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api?username=Ernakh&show_icons=true&theme=dark"
+    alt="GitHub Stats"
+    style="max-width:100%; height:auto;"
+  />
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/streak?username=Ernakh&theme=dark"
+    alt="GitHub Streak Stats"
+    style="max-width:100%; height:auto;"
+  />
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Ernakh&layout=compact&theme=dark"
+    alt="Top Languages"
+    style="max-width:100%; height:auto;"
+  />
+</div>
 
-<p align="center">
-  <a href="[https://linktr.ee/fabriciolondero](https://linktr.ee/fabriciolondero)">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ernakh&hide_progress=true" />
-  </a>
-</p>
-
-<p align="center">
-    <div style="display:flex; flex-wrap:wrap; gap:12px; align-items:flex-start;">
-      <img
-        src="https://github-readme-stats-fast.vercel.app/api?username=Ernakh&show_icons=true&theme=dark"
-        alt="GitHub Stats"
-        style="max-width:100%; height:auto;"
-      />
-      <img
-        src="https://github-readme-stats-fast.vercel.app/api/streak?username=Ernakh&theme=dark"
-        alt="GitHub Streak Stats"
-        style="max-width:100%; height:auto;"
-      />
-      <img
-        src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Ernakh&layout=compact&theme=dark"
-        alt="Top Languages"
-        style="max-width:100%; height:auto;"
-      />
-    </div>
-
-</p>
      
 <p align="center">
   <img alt="" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/csharp/csharp-plain.svg">
