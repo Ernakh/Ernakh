@@ -45,6 +45,8 @@ Mais sobre mim: https://linktr.ee/fabriciolondero
   />
 </div>
 
+<br>
+<br>
      
 <p align="center">
   <img alt="" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/csharp/csharp-plain.svg">
