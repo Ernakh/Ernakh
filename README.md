@@ -70,25 +70,25 @@ Atuo na interseção entre **Educação, Computação e tecnologias/jogos digita
 ### Tecnologias
      
 <p align="center">
-  <img alt="" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/csharp/csharp-plain.svg">
-  <img alt="" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/visualstudio/visualstudio-original-wordmark.svg">
-  <img alt="" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vscode/vscode-original-wordmark.svg">
-  <img alt="" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/dot-net/dot-net-plain-wordmark.svg">
-  <img alt="" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/entityframeworkcore/entityframeworkcore-plain.svg">
-  <img alt="" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-plain.svg">
-  <img alt="" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-original-wordmark.svg">
-  <img alt="" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
-  <img alt="" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-  <img alt="" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/git/git-plain-wordmark.svg">
-  <img alt="" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/github/github-original-wordmark.svg">
-  <img alt="" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/postgresql/postgresql-plain-wordmark.svg">
-  <img alt="" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/sqldeveloper/sqldeveloper-plain.svg">
-  <img alt="" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/sqlite/sqlite-original-wordmark.svg">
-  <img alt="" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/mongodb/mongodb-plain-wordmark.svg">
-  <img alt="" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/unity/unity-original-wordmark.svg">
-  <img alt="" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/unrealengine/unrealengine-original-wordmark.svg">
-  <img alt="" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/android/android-plain-wordmark.svg">
+  <img alt="C#" width="60" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/csharp/csharp-plain.svg" />
+  <img alt="Visual Studio" width="60" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/visualstudio/visualstudio-original-wordmark.svg" />
+  <img alt="VS Code" width="60" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vscode/vscode-original-wordmark.svg" />
+  <img alt=".NET" width="60" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/dot-net/dot-net-plain-wordmark.svg" />
+  <img alt="Entity Framework Core" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/entityframeworkcore/entityframeworkcore-plain.svg" />
+  <img alt="JavaScript" width="60" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-plain.svg" />
+  <img alt="CSS3" width="60" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-original-wordmark.svg" />
+  <img alt="Spring" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+  <img alt="Java" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img alt="HTML5" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+  <img alt="Git" width="60" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/git/git-plain-wordmark.svg" />
+  <img alt="GitHub" width="60" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/github/github-original-wordmark.svg" />
+  <img alt="PostgreSQL" width="60" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/postgresql/postgresql-plain-wordmark.svg" />
+  <img alt="SQL Developer" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/sqldeveloper/sqldeveloper-plain.svg" />
+  <img alt="SQLite" width="60" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/sqlite/sqlite-original-wordmark.svg" />
+  <img alt="MongoDB" width="60" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/mongodb/mongodb-plain-wordmark.svg" />
+  <img alt="Unity" width="60" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/unity/unity-original-wordmark.svg" />
+  <img alt="Unreal Engine" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/unrealengine/unrealengine-original-wordmark.svg" />
+  <img alt="Android" width="60" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/android/android-plain-wordmark.svg" />
 </p>
 
 ---
